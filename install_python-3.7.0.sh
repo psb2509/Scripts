@@ -1,6 +1,6 @@
 #!/bin/bash  
-# Change current directoty to tmp
-cd /tmp
+
+cd /tmp     # Change current directoty to tmp
 # Download the source code of an official Python release.
 curl -O https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
 tar xf Python-3.7.0.tgz
