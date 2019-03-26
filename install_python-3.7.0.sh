@@ -10,7 +10,7 @@ cd Python-3.7.0/
 
 ./configure
 make         
-make test       
+# make test       
 make install
 
 
